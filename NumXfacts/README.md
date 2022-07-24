@@ -10,20 +10,15 @@ Get random fact api is used to get the interesting facts associated with a parti
 
 # Installation Guide : 
 ## Chrome :
-1. Download and unpack the zip file.
+1. Clone the repository.
 2. In Settings->Extensions first enable the Developer Mode.
 3. Click on the Load Unpacked and navigate to the folder where you have downloaded and unpacked the above zip file. After uploading the file, the numXfacts extension can be seen in the extensions tab.
 4. The extension is ready to use. Every time you click on the extension it pop ups the interesting fact for a particular number.
 
-  Detailed Video of Installation on Chrome Browser - \href{abc.com}{Chrome Guide.mp4}
-
 ## Firefox:
-1. Download and unpack thezip file.
+1. Clone the repository.
 2. Search about:debugging.
 3. Click on This FirefoxTemporary ExtensionLoad Temporary Add-on and navigate to the folder where you have downloaded and unpacked the above zip file.
 4. Upload the manifest.json file.
 5. The numXfacts extension can be seen in the extensions tab.
 6. The extension is ready to use. Every time you click on the extension it pop ups the interesting fact for a particular number.
-  
-  Detailed Video of Installation on Firefox Browser - Firefox Guide.mp4
-
