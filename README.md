@@ -11,7 +11,7 @@ NumXfacts is a cross browser extension which works across multiple browsers like
 2. "18 is the legal age to vote in India".
 
 
-##TraceX
+## TraceX
 TraceX is a devtools extension TraceX which allows you to grab the trace-ids, microservices URL, start time and time duration on Oracle Fusion Cloud Applications and generate the Octo links to trace report. It helps in distributed tracing of Microservices based architecture system. 
 
 I have also added below documentations on Oracle wiki - 
