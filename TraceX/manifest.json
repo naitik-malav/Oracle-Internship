@@ -1,0 +1,30 @@
+{
+	"manifest_version": 2,
+	"name": "TraceX",
+	"description": "",
+	"version": "0.0.1",
+	"author": "Naitik Malav",
+	"devtools_page": "devtools.html",
+	"icons": {
+		"16": "icon.png",
+		"48": "icon.png",
+		"128": "icon.png"
+	},
+	"background": {
+		"scripts": [
+			"background.js"
+		],
+		"persistent": true
+	},
+	"permissions": [
+		"activeTab",
+		"storage",
+		"downloads",
+		"notifications",
+		"activeTab",
+		"<all_urls>",
+		"http://*/*",
+		"https://*/*",
+		"tabs"
+	]
+}
