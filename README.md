@@ -10,10 +10,15 @@ NumXfacts is a cross browser extension which works across multiple browsers like
 1. "11 is the number of hockey players in a field hockey team", or
 2. "18 is the legal age to vote in India".
 
+You can find the detailed guide, installation steps and source code in the NumXfacts folder.
+
 
 ## TraceX
 TraceX is a devtools extension TraceX which allows you to grab the trace-ids, microservices URL, start time and time duration on Oracle Fusion Cloud Applications and generate the Octo links to trace report. It helps in distributed tracing of Microservices based architecture system. 
 
+You can find the detailed guide, installation steps and source code in the TraceX folder.
+
+## Documentation
 I have also added below documentations on Oracle wiki - 
 1. Cross Browser Extension Development and Challanges
 2. Distributed Tracing in Microservices
