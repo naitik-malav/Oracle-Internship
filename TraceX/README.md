@@ -36,4 +36,5 @@ You can test the TraceX on expenses.
 5. Now you can find Octo tab next to Network Tab in DevTools.
 6. Click on the Octo tab to get all the required information.
 
-Please refer above pdf for references and various detailed flowcharts and images.
+### References
+Please refer above pdf for documentation links, api used links, and various detailed flowcharts and images.
