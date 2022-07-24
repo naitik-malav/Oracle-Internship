@@ -19,7 +19,8 @@ This API is used to integrate the Octo extension into the Developers Tool Window
 ## Downloads
 Download and unpack the zip file. Or clone the repository TraceX. 
 
-## Installation Chrome:
+## Installation 
+### Chrome:
 1. Open Google Chrome and go to chrome://extensions/ page. (Or click on Settings->Extensions) 
 2. Enable developer mode(if it's not already).
 3. Click on the Load unpacked extension.
